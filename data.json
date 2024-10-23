@@ -1,0 +1,1727 @@
+[
+    {
+        "instruction": "When was the Royal Monetary Authority (RMA) of Bhutan established?",
+        "input": "",
+        "output": "The Royal Monetary Authority of Bhutan was established in 1982."
+    },
+    {
+        "instruction": "What is the role of the RMA?",
+        "input": "",
+        "output": "The RMA is the central bank of Bhutan, responsible for issuing currency, managing external reserves, regulating financial institutions, and acting as the banker to the government and other banks."
+    },
+    {
+        "instruction": "Who is the current chairman of the RMA?",
+        "input": "",
+        "output": "Dasho Penjore is the current chairman of the Royal Monetary Authority of Bhutan."
+    },
+    {
+        "instruction": "What key milestone did the RMA achieve in 2010?",
+        "input": "",
+        "output": "In 2010, the RMA became a fully autonomous central bank with the enactment of the RMA Act 2010."
+    },
+    {
+        "instruction": "Which law granted the RMA the authority to supervise financial institutions?",
+        "input": "",
+        "output": "The Financial Institution Act of Bhutan 1992 granted the RMA the authority to license, regulate, and supervise financial institutions in Bhutan."
+    },
+    {
+        "instruction": "Name three financial institutions regulated by the RMA.",
+        "input": "",
+        "output": "Three financial institutions regulated by the RMA are the Bank of Bhutan, Bhutan National Bank Ltd, and Druk PNB Bank Ltd."
+    },
+    {
+        "instruction": "What function did the RMA assume in 1988?",
+        "input": "",
+        "output": "In 1988, the RMA assumed the role of Government banker, holding government deposits and providing finance through ways and means advances."
+    },
+    {
+        "instruction": "What is the role of the Department of Financial Intelligence under the RMA?",
+        "input": "",
+        "output": "The Department of Financial Intelligence operates under the RMA to combat money laundering, terrorism financing, and other financial crimes in Bhutan."
+    },
+    {
+        "instruction": "What is one of the main responsibilities of the RMA regarding foreign exchange?",
+        "input": "",
+        "output": "One of the main responsibilities of the RMA is to manage Bhutan’s foreign exchange reserves and regulate foreign exchange transactions."
+    },
+    {
+        "instruction": "What are the key responsibilities of the RMA in Bhutan's economy?",
+        "input": "",
+        "output": "The RMA is responsible for issuing currency, acting as a banker to the government, managing international reserves, and regulating financial institutions to ensure economic stability."
+    },
+    {
+        "instruction": "What is the role of the Royal Monetary Authority of Bhutan?",
+        "input": "",
+        "output": "The Royal Monetary Authority (RMA) of Bhutan serves as the central bank, responsible for formulating and implementing monetary policy, regulating financial institutions, managing currency issuance, and maintaining financial stability in the country."
+    },
+    {
+        "instruction": "Explain the role of RMA in currency management.",
+        "input": "",
+        "output": "The RMA is responsible for issuing and managing Bhutan's currency, the Ngultrum (BTN). It ensures that there is an adequate supply of currency in circulation and regulates its distribution through banks and financial institutions."
+    },
+    {
+        "instruction": "How does RMA promote financial inclusion in Bhutan?",
+        "input": "",
+        "output": "RMA promotes financial inclusion by ensuring access to banking services for all citizens, especially in rural areas. This includes initiatives like mobile banking, microfinance, and digital payment systems to provide affordable and accessible financial services."
+    },
+    {
+        "instruction": "What is the RMA's role in foreign exchange management?",
+        "input": "",
+        "output": "The RMA manages Bhutan's foreign exchange reserves and regulates foreign currency transactions. It ensures stability in Bhutan’s balance of payments and helps maintain sufficient foreign reserves to meet the country’s international obligations."
+    },
+    {
+        "instruction": "How does the RMA regulate financial institutions in Bhutan?",
+        "input": "",
+        "output": "The RMA regulates financial institutions by setting prudential guidelines, monitoring compliance, and ensuring that banks, insurance companies, and other financial entities operate in a safe and sound manner to protect the financial system."
+    },
+    {
+        "instruction": "What is the role of RMA in developing Bhutan's capital markets?",
+        "input": "",
+        "output": "The RMA helps in the development of Bhutan's capital markets by regulating and promoting investment instruments and ensuring that the financial infrastructure is in place to support long-term investment and economic growth."
+    },
+    {
+        "instruction": "What is the significance of the Ngultrum being pegged to the Indian Rupee?",
+        "input": "",
+        "output": "The Ngultrum (BTN) is pegged to the Indian Rupee (INR) at par, meaning 1 BTN equals 1 INR. This ensures stability in trade between Bhutan and India, Bhutan’s largest trading partner, and helps stabilize the value of the Ngultrum."
+    },
+    {
+        "instruction": "How does RMA ensure financial stability in Bhutan?",
+        "input": "",
+        "output": "The RMA ensures financial stability by regulating banks, overseeing monetary policy, managing liquidity, and monitoring economic risks. It intervenes when necessary to prevent financial crises and ensure the smooth functioning of the financial system."
+    },
+    {
+        "instruction": "What steps has RMA taken towards digital payments in Bhutan?",
+        "input": "",
+        "output": "The RMA has introduced several digital payment solutions, such as the Bhutan Immediate Payment System (BIPS) and mobile wallet services, to promote cashless transactions, enhance convenience, and drive the digital transformation of Bhutan's economy."
+    },
+    {
+        "instruction": "How does RMA manage government debt?",
+        "input": "",
+        "output": "The RMA acts as the government’s banker and helps manage public debt by issuing government bonds, managing debt repayments, and ensuring that the government can meet its financial obligations sustainably."
+    },
+    {
+        "instruction": "What is RMA's role in maintaining Bhutan's foreign reserves?",
+        "input": "",
+        "output": "RMA manages Bhutan's foreign exchange reserves by ensuring there are sufficient reserves to cover international transactions and maintain confidence in the country’s currency. This includes interventions in the foreign exchange market if needed."
+    },
+    {
+        "instruction": "Describe the Bhutan Immediate Payment System (BIPS).",
+        "input": "",
+        "output": "The Bhutan Immediate Payment System (BIPS) is a digital payment platform introduced by RMA that enables instant bank-to-bank transfers for individuals and businesses. It promotes a cashless economy and enhances the efficiency of financial transactions."
+    },
+    {
+        "instruction": "What is RMA's role in regulating microfinance institutions?",
+        "input": "",
+        "output": "RMA regulates microfinance institutions by setting rules and standards to ensure they operate safely and provide affordable credit to underserved populations. This helps promote financial inclusion, especially in rural Bhutan."
+    },
+    {
+        "instruction": "What are RMA’s initiatives for green finance?",
+        "input": "",
+        "output": "RMA supports green finance by encouraging financial institutions to invest in environmentally sustainable projects. It aims to promote economic growth that aligns with Bhutan's Gross National Happiness (GNH) philosophy and environmental sustainability."
+    },
+    {
+        "instruction": "How does RMA monitor inflation in Bhutan?",
+        "input": "",
+        "output": "RMA monitors inflation by tracking price changes in key goods and services and adjusting monetary policy tools, such as interest rates and money supply, to control inflationary pressures and maintain economic stability."
+    },
+    {
+        "instruction": "What is RMA's role in regulating insurance companies?",
+        "input": "",
+        "output": "RMA regulates insurance companies in Bhutan by ensuring they comply with financial standards, maintain adequate capital, and manage risks effectively. This protects policyholders and ensures the stability of the insurance sector."
+    },
+    {
+        "instruction": "Explain the relationship between RMA and Gross National Happiness (GNH).",
+        "input": "",
+        "output": "RMA aligns its financial policies with Bhutan's Gross National Happiness (GNH) philosophy by promoting sustainable economic practices, supporting inclusive growth, and ensuring that economic development contributes to the well-being of all citizens."
+    },
+    {
+        "instruction": "How does RMA handle financial crises?",
+        "input": "",
+        "output": "During financial crises, RMA can intervene by providing liquidity to banks, adjusting interest rates, and implementing emergency measures to stabilize the financial system. It also coordinates with international partners to manage external risks."
+    },
+    {
+        "instruction": "What is the role of RMA in handling remittances?",
+        "input": "",
+        "output": "RMA facilitates remittances by ensuring efficient systems for Bhutanese citizens working abroad to send money back home. This includes working with financial institutions to provide secure and affordable remittance services."
+    },
+    {
+        "instruction": "How does RMA promote responsible lending practices?",
+        "input": "",
+        "output": "RMA promotes responsible lending by setting regulations that prevent predatory lending, ensuring banks assess the creditworthiness of borrowers, and encouraging financial institutions to provide transparent loan terms to protect consumers."
+    },
+    {
+        "instruction": "What are the responsibilities of the RMA’s board of directors?",
+        "input": "",
+        "output": "The board of directors of the RMA oversees the implementation of policies, manages the strategic direction of the central bank, and ensures that the organization fulfills its mandate to maintain monetary and financial stability in Bhutan."
+    },
+    {
+        "instruction": "What is the function of RMA's financial literacy programs?",
+        "input": "",
+        "output": "RMA’s financial literacy programs aim to educate the public about managing personal finances, the importance of saving, and how to use financial services effectively. These initiatives help improve financial awareness and promote responsible financial behavior."
+    },
+    {
+        "instruction": "How does RMA contribute to economic growth in Bhutan?",
+        "input": "",
+        "output": "RMA contributes to economic growth by maintaining stable monetary conditions, regulating financial institutions, promoting investment through capital markets, and supporting access to finance for businesses and individuals."
+    },
+    {
+        "instruction": "What is RMA’s role in mobile banking?",
+        "input": "",
+        "output": "RMA promotes mobile banking by supporting the development of mobile financial services, ensuring secure platforms, and expanding access to financial services, especially in rural areas. This helps increase financial inclusion across Bhutan."
+    },
+    {
+        "instruction": "How does RMA regulate credit cooperatives in Bhutan?",
+        "input": "",
+        "output": "RMA regulates credit cooperatives by setting guidelines to ensure they operate fairly and transparently. These cooperatives provide savings and credit services to their members, and RMA’s oversight ensures their financial stability and compliance."
+    },
+    {
+        "instruction": "What are RMA's guidelines for digital wallets?",
+        "input": "",
+        "output": "RMA sets guidelines for digital wallets to ensure their security, interoperability, and accessibility. These guidelines help promote safe and efficient digital transactions, contributing to the growth of a cashless economy in Bhutan."
+    },
+    {
+        "instruction": "How does RMA manage inflation expectations in Bhutan?",
+        "input": "",
+        "output": "RMA manages inflation expectations by communicating monetary policy changes, controlling the money supply, and adjusting interest rates to influence spending and saving behaviors. This helps stabilize prices and prevent excessive inflation."
+    },
+    {
+        "instruction": "What is the role of RMA in overseeing credit card services?",
+        "input": "",
+        "output": "RMA oversees credit card services by setting regulations to protect consumers, ensuring that banks and financial institutions provide transparent terms, and preventing excessive interest rates or fees. This ensures fair access to credit."
+    },
+    {
+        "instruction": "How does RMA facilitate cross-border payments?",
+        "input": "",
+        "output": "RMA facilitates cross-border payments by regulating and streamlining the process for foreign exchange transactions, ensuring smooth remittances, trade payments, and currency conversions between Bhutan and other countries."
+    },
+    {
+        "instruction": "What law governs the current operations of the Royal Monetary Authority of Bhutan?",
+        "input": "",
+        "output": "The current operations of the Royal Monetary Authority of Bhutan are governed by the Royal Monetary Authority Act of Bhutan 2010."
+    },
+    {
+        "instruction": "What was the role of the RMA in managing Bhutan’s external reserves when it was first established?",
+        "input": "",
+        "output": "When the RMA was first established in 1982, one of its roles was to manage Bhutan’s external reserves and foreign exchange operations."
+    },
+    {
+        "instruction": "What year did the RMA assume its role as the Government banker?",
+        "input": "",
+        "output": "The RMA assumed its role as the Government banker in 1988."
+    },
+    {
+        "instruction": "What are ways and means advances provided by the RMA?",
+        "input": "",
+        "output": "Ways and means advances are short-term advances provided by the RMA to the government to help manage temporary mismatches in cash flow."
+    },
+    {
+        "instruction": "What authority does the RMA have regarding issuing financial institution licenses?",
+        "input": "",
+        "output": "The RMA has the authority to issue licenses to financial institutions under the Financial Institution Act of Bhutan 1992, allowing them to provide financial services in Bhutan."
+    },
+    {
+        "instruction": "Which year did Bhutan transition to a Democratic Constitutional Monarchy, impacting the RMA?",
+        "input": "",
+        "output": "Bhutan transitioned to a Democratic Constitutional Monarchy in 2008, leading to the enactment of the RMA Act 2010."
+    },
+    {
+        "instruction": "Who appoints the members of the RMA Board of Directors?",
+        "input": "",
+        "output": "The members of the RMA Board of Directors are appointed by the Royal Government of Bhutan."
+    },
+    {
+        "instruction": "Name a key responsibility of the RMA as the central bank of Bhutan.",
+        "input": "",
+        "output": "One key responsibility of the RMA is to issue the national currency of Bhutan, the Ngultrum."
+    },
+    {
+        "instruction": "What role does the RMA play in regulating payment and settlement systems?",
+        "input": "",
+        "output": "The RMA regulates payment and settlement systems, including the electronic transfer of funds, to ensure secure and efficient financial transactions in Bhutan."
+    },
+    {
+        "instruction": "Who was the RMA's chairman in 2024?",
+        "input": "",
+        "output": "In 2024, the chairman of the Royal Monetary Authority of Bhutan was Dasho Penjore."
+    },
+    {
+        "instruction": "What international role does the RMA play?",
+        "input": "",
+        "output": "The RMA manages Bhutan's international reserves and foreign exchange operations, helping to maintain Bhutan's economic stability in the global market."
+    },
+    {
+        "instruction": "What function does the RMA serve for the Bhutanese banks?",
+        "input": "",
+        "output": "The RMA acts as a banker to the banks, providing liquidity support and overseeing the stability of the banking system in Bhutan."
+    },
+    {
+        "instruction": "What is the significance of the RMA Act 1982?",
+        "input": "",
+        "output": "The RMA Act 1982 was the foundational law that established the Royal Monetary Authority of Bhutan, giving it the mandate to manage currency, reserves, and financial operations."
+    },
+    {
+        "instruction": "What is the Ngultrum?",
+        "input": "",
+        "output": "The Ngultrum is the national currency of Bhutan, issued and regulated by the Royal Monetary Authority."
+    },
+    {
+        "instruction": "What role does the RMA play in Bhutan's financial institutions?",
+        "input": "",
+        "output": "The RMA licenses, regulates, and supervises Bhutan's financial institutions, ensuring their compliance with laws and promoting a stable financial system."
+    },
+    {
+        "instruction": "What act amended the RMA’s role in 1992?",
+        "input": "",
+        "output": "The Financial Institution Act of Bhutan 1992 amended the RMA’s role, expanding its authority to include licensure, regulation, and supervision of financial institutions."
+    },
+    {
+        "instruction": "What is one of the main objectives of the RMA?",
+        "input": "",
+        "output": "One of the main objectives of the RMA is to maintain price stability in Bhutan through effective monetary policy and financial supervision."
+    },
+    {
+        "instruction": "What responsibility did the RMA take over in 1983?",
+        "input": "",
+        "output": "In 1983, the RMA took over the issuance of Bhutan’s national currency and the management of foreign reserves."
+    },
+    {
+        "instruction": "What are electronic fund transfers, and how does the RMA regulate them?",
+        "input": "",
+        "output": "Electronic fund transfers are digital transactions between banks or individuals, and the RMA regulates them to ensure secure, efficient payment systems in Bhutan."
+    },
+    {
+        "instruction": "What kind of advances does the RMA provide to the Royal Government?",
+        "input": "",
+        "output": "The RMA provides ways and means advances to the Royal Government of Bhutan to manage short-term liquidity needs."
+    },
+    {
+        "instruction": "What are the core responsibilities of the RMA's Department of Financial Intelligence?",
+        "input": "",
+        "output": "The RMA's Department of Financial Intelligence focuses on combating money laundering, financing terrorism, and other financial crimes in Bhutan."
+    },
+    {
+        "instruction": "Which Bhutanese law gave the RMA the authority to manage external reserves?",
+        "input": "",
+        "output": "The RMA Act 1982 initially gave the RMA the authority to manage Bhutan's external reserves and foreign exchange operations."
+    },
+    {
+        "instruction": "What kind of licenses does the RMA issue to financial institutions?",
+        "input": "",
+        "output": "The RMA issues licenses to financial institutions that authorize them to carry out banking, insurance, and other financial services in Bhutan."
+    },
+    {
+        "instruction": "What key event happened in 1988 regarding the RMA?",
+        "input": "",
+        "output": "In 1988, the RMA assumed the role of Government banker, handling government deposits and providing financial advances to the government."
+    },
+    {
+        "instruction": "How does the RMA ensure financial stability in Bhutan?",
+        "input": "",
+        "output": "The RMA ensures financial stability by regulating financial institutions, managing currency and reserves, and overseeing the payment and settlement systems."
+    },
+    {
+        "instruction": "How did the RMA's status change with the enactment of the RMA Act 2010?",
+        "input": "",
+        "output": "The RMA Act 2010 elevated the status of the RMA to an autonomous central bank with greater decision-making powers and independence."
+    },
+    {
+        "instruction": "What is the role of microfinance institutions under the RMA’s oversight?",
+        "input": "",
+        "output": "Microfinance institutions, regulated by the RMA, provide small-scale financial services to low-income individuals, helping promote financial inclusion in Bhutan."
+    },
+    {
+        "instruction": "Which institutions does the RMA regulate aside from banks?",
+        "input": "",
+        "output": "Aside from banks, the RMA regulates non-bank financial institutions, including insurance companies, pension funds, and microfinance institutions."
+    },
+    {
+        "instruction": "How does the RMA contribute to Bhutan’s 21st-century economic goals?",
+        "input": "",
+        "output": "The RMA supports Bhutan's 21st-century economic goals by maintaining financial stability, regulating financial institutions, and promoting a prosperous and sustainable economy."
+    },
+    {
+        "instruction": "What are the functions of the RMA as the banker to the banks?",
+        "input": "",
+        "output": "As the banker to the banks, the RMA provides liquidity, manages reserves, and ensures the overall stability of Bhutan's banking system."
+    },
+    {
+        "instruction": "When was the Royal Monetary Authority (RMA) of Bhutan established?",
+        "input": "",
+        "output": "The Royal Monetary Authority of Bhutan was established in 1982."
+    },
+    {
+        "instruction": "What is the role of the RMA?",
+        "input": "",
+        "output": "The RMA is the central bank of Bhutan, responsible for issuing currency, managing external reserves, regulating financial institutions, and acting as the banker to the government and other banks."
+    },
+    {
+        "instruction": "Who is the current chairman of the RMA?",
+        "input": "",
+        "output": "Dasho Penjore is the current chairman of the Royal Monetary Authority of Bhutan."
+    },
+    {
+        "instruction": "What key milestone did the RMA achieve in 2010?",
+        "input": "",
+        "output": "In 2010, the RMA became a fully autonomous central bank with the enactment of the RMA Act 2010."
+    },
+    {
+        "instruction": "Which law granted the RMA the authority to supervise financial institutions?",
+        "input": "",
+        "output": "The Financial Institution Act of Bhutan 1992 granted the RMA the authority to license, regulate, and supervise financial institutions in Bhutan."
+    },
+    {
+        "instruction": "Name three financial institutions regulated by the RMA.",
+        "input": "",
+        "output": "Three financial institutions regulated by the RMA are the Bank of Bhutan, Bhutan National Bank Ltd, and Druk PNB Bank Ltd."
+    },
+    {
+        "instruction": "What function did the RMA assume in 1988?",
+        "input": "",
+        "output": "In 1988, the RMA assumed the role of Government banker, holding government deposits and providing finance through ways and means advances."
+    },
+    {
+        "instruction": "What is the role of the Department of Financial Intelligence under the RMA?",
+        "input": "",
+        "output": "The Department of Financial Intelligence operates under the RMA to combat money laundering, terrorism financing, and other financial crimes in Bhutan."
+    },
+    {
+        "instruction": "What is one of the main responsibilities of the RMA regarding foreign exchange?",
+        "input": "",
+        "output": "One of the main responsibilities of the RMA is to manage Bhutan’s foreign exchange reserves and regulate foreign exchange transactions."
+    },
+    {
+        "instruction": "What are the key responsibilities of the RMA in Bhutan's economy?",
+        "input": "",
+        "output": "The RMA is responsible for issuing currency, acting as a banker to the government, managing international reserves, and regulating financial institutions to ensure economic stability."
+    },
+    {
+        "instruction": "What is the role of the Royal Monetary Authority of Bhutan?",
+        "input": "",
+        "output": "The Royal Monetary Authority (RMA) of Bhutan serves as the central bank, responsible for formulating and implementing monetary policy, regulating financial institutions, managing currency issuance, and maintaining financial stability in the country."
+    },
+    {
+        "instruction": "Explain the role of RMA in currency management.",
+        "input": "",
+        "output": "The RMA is responsible for issuing and managing Bhutan's currency, the Ngultrum (BTN). It ensures that there is an adequate supply of currency in circulation and regulates its distribution through banks and financial institutions."
+    },
+    {
+        "instruction": "How does RMA promote financial inclusion in Bhutan?",
+        "input": "",
+        "output": "RMA promotes financial inclusion by ensuring access to banking services for all citizens, especially in rural areas. This includes initiatives like mobile banking, microfinance, and digital payment systems to provide affordable and accessible financial services."
+    },
+    {
+        "instruction": "What is the RMA's role in foreign exchange management?",
+        "input": "",
+        "output": "The RMA manages Bhutan's foreign exchange reserves and regulates foreign currency transactions. It ensures stability in Bhutan’s balance of payments and helps maintain sufficient foreign reserves to meet the country’s international obligations."
+    },
+    {
+        "instruction": "How does the RMA regulate financial institutions in Bhutan?",
+        "input": "",
+        "output": "The RMA regulates financial institutions by setting prudential guidelines, monitoring compliance, and ensuring that banks, insurance companies, and other financial entities operate in a safe and sound manner to protect the financial system."
+    },
+    {
+        "instruction": "What is the role of RMA in developing Bhutan's capital markets?",
+        "input": "",
+        "output": "The RMA helps in the development of Bhutan's capital markets by regulating and promoting investment instruments and ensuring that the financial infrastructure is in place to support long-term investment and economic growth."
+    },
+    {
+        "instruction": "What is the significance of the Ngultrum being pegged to the Indian Rupee?",
+        "input": "",
+        "output": "The Ngultrum (BTN) is pegged to the Indian Rupee (INR) at par, meaning 1 BTN equals 1 INR. This ensures stability in trade between Bhutan and India, Bhutan’s largest trading partner, and helps stabilize the value of the Ngultrum."
+    },
+    {
+        "instruction": "How does RMA ensure financial stability in Bhutan?",
+        "input": "",
+        "output": "The RMA ensures financial stability by regulating banks, overseeing monetary policy, managing liquidity, and monitoring economic risks. It intervenes when necessary to prevent financial crises and ensure the smooth functioning of the financial system."
+    },
+    {
+        "instruction": "What steps has RMA taken towards digital payments in Bhutan?",
+        "input": "",
+        "output": "The RMA has introduced several digital payment solutions, such as the Bhutan Immediate Payment System (BIPS) and mobile wallet services, to promote cashless transactions, enhance convenience, and drive the digital transformation of Bhutan's economy."
+    },
+    {
+        "instruction": "How does RMA manage government debt?",
+        "input": "",
+        "output": "The RMA acts as the government’s banker and helps manage public debt by issuing government bonds, managing debt repayments, and ensuring that the government can meet its financial obligations sustainably."
+    },
+    {
+        "instruction": "What is RMA's role in maintaining Bhutan's foreign reserves?",
+        "input": "",
+        "output": "RMA manages Bhutan's foreign exchange reserves by ensuring there are sufficient reserves to cover international transactions and maintain confidence in the country’s currency. This includes interventions in the foreign exchange market if needed."
+    },
+    {
+        "instruction": "Describe the Bhutan Immediate Payment System (BIPS).",
+        "input": "",
+        "output": "The Bhutan Immediate Payment System (BIPS) is a digital payment platform introduced by RMA that enables instant bank-to-bank transfers for individuals and businesses. It promotes a cashless economy and enhances the efficiency of financial transactions."
+    },
+    {
+        "instruction": "What is RMA's role in regulating microfinance institutions?",
+        "input": "",
+        "output": "RMA regulates microfinance institutions by setting rules and standards to ensure they operate safely and provide affordable credit to underserved populations. This helps promote financial inclusion, especially in rural Bhutan."
+    },
+    {
+        "instruction": "What are RMA’s initiatives for green finance?",
+        "input": "",
+        "output": "RMA supports green finance by encouraging financial institutions to invest in environmentally sustainable projects. It aims to promote economic growth that aligns with Bhutan's Gross National Happiness (GNH) philosophy and environmental sustainability."
+    },
+    {
+        "instruction": "How does RMA monitor inflation in Bhutan?",
+        "input": "",
+        "output": "RMA monitors inflation by tracking price changes in key goods and services and adjusting monetary policy tools, such as interest rates and money supply, to control inflationary pressures and maintain economic stability."
+    },
+    {
+        "instruction": "What is RMA's role in regulating insurance companies?",
+        "input": "",
+        "output": "RMA regulates insurance companies in Bhutan by ensuring they comply with financial standards, maintain adequate capital, and manage risks effectively. This protects policyholders and ensures the stability of the insurance sector."
+    },
+    {
+        "instruction": "Explain the relationship between RMA and Gross National Happiness (GNH).",
+        "input": "",
+        "output": "RMA aligns its financial policies with Bhutan's Gross National Happiness (GNH) philosophy by promoting sustainable economic practices, supporting inclusive growth, and ensuring that economic development contributes to the well-being of all citizens."
+    },
+    {
+        "instruction": "How does RMA handle financial crises?",
+        "input": "",
+        "output": "During financial crises, RMA can intervene by providing liquidity to banks, adjusting interest rates, and implementing emergency measures to stabilize the financial system. It also coordinates with international partners to manage external risks."
+    },
+    {
+        "instruction": "What is the role of RMA in handling remittances?",
+        "input": "",
+        "output": "RMA facilitates remittances by ensuring efficient systems for Bhutanese citizens working abroad to send money back home. This includes working with financial institutions to provide secure and affordable remittance services."
+    },
+    {
+        "instruction": "How does RMA promote responsible lending practices?",
+        "input": "",
+        "output": "RMA promotes responsible lending by setting regulations that prevent predatory lending, ensuring banks assess the creditworthiness of borrowers, and encouraging financial institutions to provide transparent loan terms to protect consumers."
+    },
+    {
+        "instruction": "What are the responsibilities of the RMA’s board of directors?",
+        "input": "",
+        "output": "The board of directors of the RMA oversees the implementation of policies, manages the strategic direction of the central bank, and ensures that the organization fulfills its mandate to maintain monetary and financial stability in Bhutan."
+    },
+    {
+        "instruction": "What is the function of RMA's financial literacy programs?",
+        "input": "",
+        "output": "RMA’s financial literacy programs aim to educate the public about managing personal finances, the importance of saving, and how to use financial services effectively. These initiatives help improve financial awareness and promote responsible financial behavior."
+    },
+    {
+        "instruction": "How does RMA contribute to economic growth in Bhutan?",
+        "input": "",
+        "output": "RMA contributes to economic growth by maintaining stable monetary conditions, regulating financial institutions, promoting investment through capital markets, and supporting access to finance for businesses and individuals."
+    },
+    {
+        "instruction": "What is RMA’s role in mobile banking?",
+        "input": "",
+        "output": "RMA promotes mobile banking by supporting the development of mobile financial services, ensuring secure platforms, and expanding access to financial services, especially in rural areas. This helps increase financial inclusion across Bhutan."
+    },
+    {
+        "instruction": "How does RMA regulate credit cooperatives in Bhutan?",
+        "input": "",
+        "output": "RMA regulates credit cooperatives by setting guidelines to ensure they operate fairly and transparently. These cooperatives provide savings and credit services to their members, and RMA’s oversight ensures their financial stability and compliance."
+    },
+    {
+        "instruction": "What are RMA's guidelines for digital wallets?",
+        "input": "",
+        "output": "RMA sets guidelines for digital wallets to ensure their security, interoperability, and accessibility. These guidelines help promote safe and efficient digital transactions, contributing to the growth of a cashless economy in Bhutan."
+    },
+    {
+        "instruction": "How does RMA manage inflation expectations in Bhutan?",
+        "input": "",
+        "output": "RMA manages inflation expectations by communicating monetary policy changes, controlling the money supply, and adjusting interest rates to influence spending and saving behaviors. This helps stabilize prices and prevent excessive inflation."
+    },
+    {
+        "instruction": "What is the role of RMA in overseeing credit card services?",
+        "input": "",
+        "output": "RMA oversees credit card services by setting regulations to protect consumers, ensuring that banks and financial institutions provide transparent terms, and preventing excessive interest rates or fees. This ensures fair access to credit."
+    },
+    {
+        "instruction": "How does RMA facilitate cross-border payments?",
+        "input": "",
+        "output": "RMA facilitates cross-border payments by regulating and streamlining the process for foreign exchange transactions, ensuring smooth remittances, trade payments, and currency conversions between Bhutan and other countries."
+    },
+    {
+        "instruction": "What law governs the current operations of the Royal Monetary Authority of Bhutan?",
+        "input": "",
+        "output": "The current operations of the Royal Monetary Authority of Bhutan are governed by the Royal Monetary Authority Act of Bhutan 2010."
+    },
+    {
+        "instruction": "What was the role of the RMA in managing Bhutan’s external reserves when it was first established?",
+        "input": "",
+        "output": "When the RMA was first established in 1982, one of its roles was to manage Bhutan’s external reserves and foreign exchange operations."
+    },
+    {
+        "instruction": "What year did the RMA assume its role as the Government banker?",
+        "input": "",
+        "output": "The RMA assumed its role as the Government banker in 1988."
+    },
+    {
+        "instruction": "What are ways and means advances provided by the RMA?",
+        "input": "",
+        "output": "Ways and means advances are short-term advances provided by the RMA to the government to help manage temporary mismatches in cash flow."
+    },
+    {
+        "instruction": "What authority does the RMA have regarding issuing financial institution licenses?",
+        "input": "",
+        "output": "The RMA has the authority to issue licenses to financial institutions under the Financial Institution Act of Bhutan 1992, allowing them to provide financial services in Bhutan."
+    },
+    {
+        "instruction": "Which year did Bhutan transition to a Democratic Constitutional Monarchy, impacting the RMA?",
+        "input": "",
+        "output": "Bhutan transitioned to a Democratic Constitutional Monarchy in 2008, leading to the enactment of the RMA Act 2010."
+    },
+    {
+        "instruction": "Who appoints the members of the RMA Board of Directors?",
+        "input": "",
+        "output": "The members of the RMA Board of Directors are appointed by the Royal Government of Bhutan."
+    },
+    {
+        "instruction": "Name a key responsibility of the RMA as the central bank of Bhutan.",
+        "input": "",
+        "output": "One key responsibility of the RMA is to issue the national currency of Bhutan, the Ngultrum."
+    },
+    {
+        "instruction": "What role does the RMA play in regulating payment and settlement systems?",
+        "input": "",
+        "output": "The RMA regulates payment and settlement systems, including the electronic transfer of funds, to ensure secure and efficient financial transactions in Bhutan."
+    },
+    {
+        "instruction": "Who was the RMA's chairman in 2024?",
+        "input": "",
+        "output": "In 2024, the chairman of the Royal Monetary Authority of Bhutan was Dasho Penjore."
+    },
+    {
+        "instruction": "What international role does the RMA play?",
+        "input": "",
+        "output": "The RMA manages Bhutan's international reserves and foreign exchange operations, helping to maintain Bhutan's economic stability in the global market."
+    },
+    {
+        "instruction": "What function does the RMA serve for the Bhutanese banks?",
+        "input": "",
+        "output": "The RMA acts as a banker to the banks, providing liquidity support and overseeing the stability of the banking system in Bhutan."
+    },
+    {
+        "instruction": "What is the significance of the RMA Act 1982?",
+        "input": "",
+        "output": "The RMA Act 1982 was the foundational law that established the Royal Monetary Authority of Bhutan, giving it the mandate to manage currency, reserves, and financial operations."
+    },
+    {
+        "instruction": "What is the Ngultrum?",
+        "input": "",
+        "output": "The Ngultrum is the national currency of Bhutan, issued and regulated by the Royal Monetary Authority."
+    },
+    {
+        "instruction": "What role does the RMA play in Bhutan's financial institutions?",
+        "input": "",
+        "output": "The RMA licenses, regulates, and supervises Bhutan's financial institutions, ensuring their compliance with laws and promoting a stable financial system."
+    },
+    {
+        "instruction": "What act amended the RMA’s role in 1992?",
+        "input": "",
+        "output": "The Financial Institution Act of Bhutan 1992 amended the RMA’s role, expanding its authority to include licensure, regulation, and supervision of financial institutions."
+    },
+    {
+        "instruction": "What is one of the main objectives of the RMA?",
+        "input": "",
+        "output": "One of the main objectives of the RMA is to maintain price stability in Bhutan through effective monetary policy and financial supervision."
+    },
+    {
+        "instruction": "What responsibility did the RMA take over in 1983?",
+        "input": "",
+        "output": "In 1983, the RMA took over the issuance of Bhutan’s national currency and the management of foreign reserves."
+    },
+    {
+        "instruction": "What are electronic fund transfers, and how does the RMA regulate them?",
+        "input": "",
+        "output": "Electronic fund transfers are digital transactions between banks or individuals, and the RMA regulates them to ensure secure, efficient payment systems in Bhutan."
+    },
+    {
+        "instruction": "What kind of advances does the RMA provide to the Royal Government?",
+        "input": "",
+        "output": "The RMA provides ways and means advances to the Royal Government of Bhutan to manage short-term liquidity needs."
+    },
+    {
+        "instruction": "What are the core responsibilities of the RMA's Department of Financial Intelligence?",
+        "input": "",
+        "output": "The RMA's Department of Financial Intelligence focuses on combating money laundering, financing terrorism, and other financial crimes in Bhutan."
+    },
+    {
+        "instruction": "Which Bhutanese law gave the RMA the authority to manage external reserves?",
+        "input": "",
+        "output": "The RMA Act 1982 initially gave the RMA the authority to manage Bhutan's external reserves and foreign exchange operations."
+    },
+    {
+        "instruction": "What kind of licenses does the RMA issue to financial institutions?",
+        "input": "",
+        "output": "The RMA issues licenses to financial institutions that authorize them to carry out banking, insurance, and other financial services in Bhutan."
+    },
+    {
+        "instruction": "What key event happened in 1988 regarding the RMA?",
+        "input": "",
+        "output": "In 1988, the RMA assumed the role of Government banker, handling government deposits and providing financial advances to the government."
+    },
+    {
+        "instruction": "How does the RMA ensure financial stability in Bhutan?",
+        "input": "",
+        "output": "The RMA ensures financial stability by regulating financial institutions, managing currency and reserves, and overseeing the payment and settlement systems."
+    },
+    {
+        "instruction": "How did the RMA's status change with the enactment of the RMA Act 2010?",
+        "input": "",
+        "output": "The RMA Act 2010 elevated the status of the RMA to an autonomous central bank with greater decision-making powers and independence."
+    },
+    {
+        "instruction": "What is the role of microfinance institutions under the RMA’s oversight?",
+        "input": "",
+        "output": "Microfinance institutions, regulated by the RMA, provide small-scale financial services to low-income individuals, helping promote financial inclusion in Bhutan."
+    },
+    {
+        "instruction": "Which institutions does the RMA regulate aside from banks?",
+        "input": "",
+        "output": "Aside from banks, the RMA regulates non-bank financial institutions, including insurance companies, pension funds, and microfinance institutions."
+    },
+    {
+        "instruction": "How does the RMA contribute to Bhutan’s 21st-century economic goals?",
+        "input": "",
+        "output": "The RMA supports Bhutan's 21st-century economic goals by maintaining financial stability, regulating financial institutions, and promoting a prosperous and sustainable economy."
+    },
+    {
+        "instruction": "What are the functions of the RMA as the banker to the banks?",
+        "input": "",
+        "output": "As the banker to the banks, the RMA provides liquidity, manages reserves, and ensures the overall stability of Bhutan's banking system."
+    },
+    {
+        "instruction": "When was the Royal Monetary Authority (RMA) of Bhutan established?",
+        "input": "",
+        "output": "The Royal Monetary Authority of Bhutan was established in 1982."
+    },
+    {
+        "instruction": "What is the role of the RMA?",
+        "input": "",
+        "output": "The RMA is the central bank of Bhutan, responsible for issuing currency, managing external reserves, regulating financial institutions, and acting as the banker to the government and other banks."
+    },
+    {
+        "instruction": "Who is the current chairman of the RMA?",
+        "input": "",
+        "output": "Dasho Penjore is the current chairman of the Royal Monetary Authority of Bhutan."
+    },
+    {
+        "instruction": "What key milestone did the RMA achieve in 2010?",
+        "input": "",
+        "output": "In 2010, the RMA became a fully autonomous central bank with the enactment of the RMA Act 2010."
+    },
+    {
+        "instruction": "Which law granted the RMA the authority to supervise financial institutions?",
+        "input": "",
+        "output": "The Financial Institution Act of Bhutan 1992 granted the RMA the authority to license, regulate, and supervise financial institutions in Bhutan."
+    },
+    {
+        "instruction": "Name three financial institutions regulated by the RMA.",
+        "input": "",
+        "output": "Three financial institutions regulated by the RMA are the Bank of Bhutan, Bhutan National Bank Ltd, and Druk PNB Bank Ltd."
+    },
+    {
+        "instruction": "What function did the RMA assume in 1988?",
+        "input": "",
+        "output": "In 1988, the RMA assumed the role of Government banker, holding government deposits and providing finance through ways and means advances."
+    },
+    {
+        "instruction": "What is the role of the Department of Financial Intelligence under the RMA?",
+        "input": "",
+        "output": "The Department of Financial Intelligence operates under the RMA to combat money laundering, terrorism financing, and other financial crimes in Bhutan."
+    },
+    {
+        "instruction": "What is one of the main responsibilities of the RMA regarding foreign exchange?",
+        "input": "",
+        "output": "One of the main responsibilities of the RMA is to manage Bhutan’s foreign exchange reserves and regulate foreign exchange transactions."
+    },
+    {
+        "instruction": "What are the key responsibilities of the RMA in Bhutan's economy?",
+        "input": "",
+        "output": "The RMA is responsible for issuing currency, acting as a banker to the government, managing international reserves, and regulating financial institutions to ensure economic stability."
+    },
+    {
+        "instruction": "What is the role of the Royal Monetary Authority of Bhutan?",
+        "input": "",
+        "output": "The Royal Monetary Authority (RMA) of Bhutan serves as the central bank, responsible for formulating and implementing monetary policy, regulating financial institutions, managing currency issuance, and maintaining financial stability in the country."
+    },
+    {
+        "instruction": "Explain the role of RMA in currency management.",
+        "input": "",
+        "output": "The RMA is responsible for issuing and managing Bhutan's currency, the Ngultrum (BTN). It ensures that there is an adequate supply of currency in circulation and regulates its distribution through banks and financial institutions."
+    },
+    {
+        "instruction": "How does RMA promote financial inclusion in Bhutan?",
+        "input": "",
+        "output": "RMA promotes financial inclusion by ensuring access to banking services for all citizens, especially in rural areas. This includes initiatives like mobile banking, microfinance, and digital payment systems to provide affordable and accessible financial services."
+    },
+    {
+        "instruction": "What is the RMA's role in foreign exchange management?",
+        "input": "",
+        "output": "The RMA manages Bhutan's foreign exchange reserves and regulates foreign currency transactions. It ensures stability in Bhutan’s balance of payments and helps maintain sufficient foreign reserves to meet the country’s international obligations."
+    },
+    {
+        "instruction": "How does the RMA regulate financial institutions in Bhutan?",
+        "input": "",
+        "output": "The RMA regulates financial institutions by setting prudential guidelines, monitoring compliance, and ensuring that banks, insurance companies, and other financial entities operate in a safe and sound manner to protect the financial system."
+    },
+    {
+        "instruction": "What is the role of RMA in developing Bhutan's capital markets?",
+        "input": "",
+        "output": "The RMA helps in the development of Bhutan's capital markets by regulating and promoting investment instruments and ensuring that the financial infrastructure is in place to support long-term investment and economic growth."
+    },
+    {
+        "instruction": "What is the significance of the Ngultrum being pegged to the Indian Rupee?",
+        "input": "",
+        "output": "The Ngultrum (BTN) is pegged to the Indian Rupee (INR) at par, meaning 1 BTN equals 1 INR. This ensures stability in trade between Bhutan and India, Bhutan’s largest trading partner, and helps stabilize the value of the Ngultrum."
+    },
+    {
+        "instruction": "How does RMA ensure financial stability in Bhutan?",
+        "input": "",
+        "output": "The RMA ensures financial stability by regulating banks, overseeing monetary policy, managing liquidity, and monitoring economic risks. It intervenes when necessary to prevent financial crises and ensure the smooth functioning of the financial system."
+    },
+    {
+        "instruction": "What steps has RMA taken towards digital payments in Bhutan?",
+        "input": "",
+        "output": "The RMA has introduced several digital payment solutions, such as the Bhutan Immediate Payment System (BIPS) and mobile wallet services, to promote cashless transactions, enhance convenience, and drive the digital transformation of Bhutan's economy."
+    },
+    {
+        "instruction": "How does RMA manage government debt?",
+        "input": "",
+        "output": "The RMA acts as the government’s banker and helps manage public debt by issuing government bonds, managing debt repayments, and ensuring that the government can meet its financial obligations sustainably."
+    },
+    {
+        "instruction": "What is RMA's role in maintaining Bhutan's foreign reserves?",
+        "input": "",
+        "output": "RMA manages Bhutan's foreign exchange reserves by ensuring there are sufficient reserves to cover international transactions and maintain confidence in the country’s currency. This includes interventions in the foreign exchange market if needed."
+    },
+    {
+        "instruction": "Describe the Bhutan Immediate Payment System (BIPS).",
+        "input": "",
+        "output": "The Bhutan Immediate Payment System (BIPS) is a digital payment platform introduced by RMA that enables instant bank-to-bank transfers for individuals and businesses. It promotes a cashless economy and enhances the efficiency of financial transactions."
+    },
+    {
+        "instruction": "What is RMA's role in regulating microfinance institutions?",
+        "input": "",
+        "output": "RMA regulates microfinance institutions by setting rules and standards to ensure they operate safely and provide affordable credit to underserved populations. This helps promote financial inclusion, especially in rural Bhutan."
+    },
+    {
+        "instruction": "What are RMA’s initiatives for green finance?",
+        "input": "",
+        "output": "RMA supports green finance by encouraging financial institutions to invest in environmentally sustainable projects. It aims to promote economic growth that aligns with Bhutan's Gross National Happiness (GNH) philosophy and environmental sustainability."
+    },
+    {
+        "instruction": "How does RMA monitor inflation in Bhutan?",
+        "input": "",
+        "output": "RMA monitors inflation by tracking price changes in key goods and services and adjusting monetary policy tools, such as interest rates and money supply, to control inflationary pressures and maintain economic stability."
+    },
+    {
+        "instruction": "What is RMA's role in regulating insurance companies?",
+        "input": "",
+        "output": "RMA regulates insurance companies in Bhutan by ensuring they comply with financial standards, maintain adequate capital, and manage risks effectively. This protects policyholders and ensures the stability of the insurance sector."
+    },
+    {
+        "instruction": "Explain the relationship between RMA and Gross National Happiness (GNH).",
+        "input": "",
+        "output": "RMA aligns its financial policies with Bhutan's Gross National Happiness (GNH) philosophy by promoting sustainable economic practices, supporting inclusive growth, and ensuring that economic development contributes to the well-being of all citizens."
+    },
+    {
+        "instruction": "How does RMA handle financial crises?",
+        "input": "",
+        "output": "During financial crises, RMA can intervene by providing liquidity to banks, adjusting interest rates, and implementing emergency measures to stabilize the financial system. It also coordinates with international partners to manage external risks."
+    },
+    {
+        "instruction": "What is the role of RMA in handling remittances?",
+        "input": "",
+        "output": "RMA facilitates remittances by ensuring efficient systems for Bhutanese citizens working abroad to send money back home. This includes working with financial institutions to provide secure and affordable remittance services."
+    },
+    {
+        "instruction": "How does RMA promote responsible lending practices?",
+        "input": "",
+        "output": "RMA promotes responsible lending by setting regulations that prevent predatory lending, ensuring banks assess the creditworthiness of borrowers, and encouraging financial institutions to provide transparent loan terms to protect consumers."
+    },
+    {
+        "instruction": "What are the responsibilities of the RMA’s board of directors?",
+        "input": "",
+        "output": "The board of directors of the RMA oversees the implementation of policies, manages the strategic direction of the central bank, and ensures that the organization fulfills its mandate to maintain monetary and financial stability in Bhutan."
+    },
+    {
+        "instruction": "What is the function of RMA's financial literacy programs?",
+        "input": "",
+        "output": "RMA’s financial literacy programs aim to educate the public about managing personal finances, the importance of saving, and how to use financial services effectively. These initiatives help improve financial awareness and promote responsible financial behavior."
+    },
+    {
+        "instruction": "How does RMA contribute to economic growth in Bhutan?",
+        "input": "",
+        "output": "RMA contributes to economic growth by maintaining stable monetary conditions, regulating financial institutions, promoting investment through capital markets, and supporting access to finance for businesses and individuals."
+    },
+    {
+        "instruction": "What is RMA’s role in mobile banking?",
+        "input": "",
+        "output": "RMA promotes mobile banking by supporting the development of mobile financial services, ensuring secure platforms, and expanding access to financial services, especially in rural areas. This helps increase financial inclusion across Bhutan."
+    },
+    {
+        "instruction": "How does RMA regulate credit cooperatives in Bhutan?",
+        "input": "",
+        "output": "RMA regulates credit cooperatives by setting guidelines to ensure they operate fairly and transparently. These cooperatives provide savings and credit services to their members, and RMA’s oversight ensures their financial stability and compliance."
+    },
+    {
+        "instruction": "What are RMA's guidelines for digital wallets?",
+        "input": "",
+        "output": "RMA sets guidelines for digital wallets to ensure their security, interoperability, and accessibility. These guidelines help promote safe and efficient digital transactions, contributing to the growth of a cashless economy in Bhutan."
+    },
+    {
+        "instruction": "How does RMA manage inflation expectations in Bhutan?",
+        "input": "",
+        "output": "RMA manages inflation expectations by communicating monetary policy changes, controlling the money supply, and adjusting interest rates to influence spending and saving behaviors. This helps stabilize prices and prevent excessive inflation."
+    },
+    {
+        "instruction": "What is the role of RMA in overseeing credit card services?",
+        "input": "",
+        "output": "RMA oversees credit card services by setting regulations to protect consumers, ensuring that banks and financial institutions provide transparent terms, and preventing excessive interest rates or fees. This ensures fair access to credit."
+    },
+    {
+        "instruction": "How does RMA facilitate cross-border payments?",
+        "input": "",
+        "output": "RMA facilitates cross-border payments by regulating and streamlining the process for foreign exchange transactions, ensuring smooth remittances, trade payments, and currency conversions between Bhutan and other countries."
+    },
+    {
+        "instruction": "What law governs the current operations of the Royal Monetary Authority of Bhutan?",
+        "input": "",
+        "output": "The current operations of the Royal Monetary Authority of Bhutan are governed by the Royal Monetary Authority Act of Bhutan 2010."
+    },
+    {
+        "instruction": "What was the role of the RMA in managing Bhutan’s external reserves when it was first established?",
+        "input": "",
+        "output": "When the RMA was first established in 1982, one of its roles was to manage Bhutan’s external reserves and foreign exchange operations."
+    },
+    {
+        "instruction": "What year did the RMA assume its role as the Government banker?",
+        "input": "",
+        "output": "The RMA assumed its role as the Government banker in 1988."
+    },
+    {
+        "instruction": "What are ways and means advances provided by the RMA?",
+        "input": "",
+        "output": "Ways and means advances are short-term advances provided by the RMA to the government to help manage temporary mismatches in cash flow."
+    },
+    {
+        "instruction": "What authority does the RMA have regarding issuing financial institution licenses?",
+        "input": "",
+        "output": "The RMA has the authority to issue licenses to financial institutions under the Financial Institution Act of Bhutan 1992, allowing them to provide financial services in Bhutan."
+    },
+    {
+        "instruction": "Which year did Bhutan transition to a Democratic Constitutional Monarchy, impacting the RMA?",
+        "input": "",
+        "output": "Bhutan transitioned to a Democratic Constitutional Monarchy in 2008, leading to the enactment of the RMA Act 2010."
+    },
+    {
+        "instruction": "Who appoints the members of the RMA Board of Directors?",
+        "input": "",
+        "output": "The members of the RMA Board of Directors are appointed by the Royal Government of Bhutan."
+    },
+    {
+        "instruction": "Name a key responsibility of the RMA as the central bank of Bhutan.",
+        "input": "",
+        "output": "One key responsibility of the RMA is to issue the national currency of Bhutan, the Ngultrum."
+    },
+    {
+        "instruction": "What role does the RMA play in regulating payment and settlement systems?",
+        "input": "",
+        "output": "The RMA regulates payment and settlement systems, including the electronic transfer of funds, to ensure secure and efficient financial transactions in Bhutan."
+    },
+    {
+        "instruction": "Who was the RMA's chairman in 2024?",
+        "input": "",
+        "output": "In 2024, the chairman of the Royal Monetary Authority of Bhutan was Dasho Penjore."
+    },
+    {
+        "instruction": "What international role does the RMA play?",
+        "input": "",
+        "output": "The RMA manages Bhutan's international reserves and foreign exchange operations, helping to maintain Bhutan's economic stability in the global market."
+    },
+    {
+        "instruction": "What function does the RMA serve for the Bhutanese banks?",
+        "input": "",
+        "output": "The RMA acts as a banker to the banks, providing liquidity support and overseeing the stability of the banking system in Bhutan."
+    },
+    {
+        "instruction": "What is the significance of the RMA Act 1982?",
+        "input": "",
+        "output": "The RMA Act 1982 was the foundational law that established the Royal Monetary Authority of Bhutan, giving it the mandate to manage currency, reserves, and financial operations."
+    },
+    {
+        "instruction": "What is the Ngultrum?",
+        "input": "",
+        "output": "The Ngultrum is the national currency of Bhutan, issued and regulated by the Royal Monetary Authority."
+    },
+    {
+        "instruction": "What role does the RMA play in Bhutan's financial institutions?",
+        "input": "",
+        "output": "The RMA licenses, regulates, and supervises Bhutan's financial institutions, ensuring their compliance with laws and promoting a stable financial system."
+    },
+    {
+        "instruction": "What act amended the RMA’s role in 1992?",
+        "input": "",
+        "output": "The Financial Institution Act of Bhutan 1992 amended the RMA’s role, expanding its authority to include licensure, regulation, and supervision of financial institutions."
+    },
+    {
+        "instruction": "What is one of the main objectives of the RMA?",
+        "input": "",
+        "output": "One of the main objectives of the RMA is to maintain price stability in Bhutan through effective monetary policy and financial supervision."
+    },
+    {
+        "instruction": "What responsibility did the RMA take over in 1983?",
+        "input": "",
+        "output": "In 1983, the RMA took over the issuance of Bhutan’s national currency and the management of foreign reserves."
+    },
+    {
+        "instruction": "What are electronic fund transfers, and how does the RMA regulate them?",
+        "input": "",
+        "output": "Electronic fund transfers are digital transactions between banks or individuals, and the RMA regulates them to ensure secure, efficient payment systems in Bhutan."
+    },
+    {
+        "instruction": "What kind of advances does the RMA provide to the Royal Government?",
+        "input": "",
+        "output": "The RMA provides ways and means advances to the Royal Government of Bhutan to manage short-term liquidity needs."
+    },
+    {
+        "instruction": "What are the core responsibilities of the RMA's Department of Financial Intelligence?",
+        "input": "",
+        "output": "The RMA's Department of Financial Intelligence focuses on combating money laundering, financing terrorism, and other financial crimes in Bhutan."
+    },
+    {
+        "instruction": "Which Bhutanese law gave the RMA the authority to manage external reserves?",
+        "input": "",
+        "output": "The RMA Act 1982 initially gave the RMA the authority to manage Bhutan's external reserves and foreign exchange operations."
+    },
+    {
+        "instruction": "What kind of licenses does the RMA issue to financial institutions?",
+        "input": "",
+        "output": "The RMA issues licenses to financial institutions that authorize them to carry out banking, insurance, and other financial services in Bhutan."
+    },
+    {
+        "instruction": "What key event happened in 1988 regarding the RMA?",
+        "input": "",
+        "output": "In 1988, the RMA assumed the role of Government banker, handling government deposits and providing financial advances to the government."
+    },
+    {
+        "instruction": "How does the RMA ensure financial stability in Bhutan?",
+        "input": "",
+        "output": "The RMA ensures financial stability by regulating financial institutions, managing currency and reserves, and overseeing the payment and settlement systems."
+    },
+    {
+        "instruction": "How did the RMA's status change with the enactment of the RMA Act 2010?",
+        "input": "",
+        "output": "The RMA Act 2010 elevated the status of the RMA to an autonomous central bank with greater decision-making powers and independence."
+    },
+    {
+        "instruction": "What is the role of microfinance institutions under the RMA’s oversight?",
+        "input": "",
+        "output": "Microfinance institutions, regulated by the RMA, provide small-scale financial services to low-income individuals, helping promote financial inclusion in Bhutan."
+    },
+    {
+        "instruction": "Which institutions does the RMA regulate aside from banks?",
+        "input": "",
+        "output": "Aside from banks, the RMA regulates non-bank financial institutions, including insurance companies, pension funds, and microfinance institutions."
+    },
+    {
+        "instruction": "How does the RMA contribute to Bhutan’s 21st-century economic goals?",
+        "input": "",
+        "output": "The RMA supports Bhutan's 21st-century economic goals by maintaining financial stability, regulating financial institutions, and promoting a prosperous and sustainable economy."
+    },
+    {
+        "instruction": "What are the functions of the RMA as the banker to the banks?",
+        "input": "",
+        "output": "As the banker to the banks, the RMA provides liquidity, manages reserves, and ensures the overall stability of Bhutan's banking system."
+    },
+    {
+        "instruction": "When was the Royal Monetary Authority (RMA) of Bhutan established?",
+        "input": "",
+        "output": "The Royal Monetary Authority of Bhutan was established in 1982."
+    },
+    {
+        "instruction": "What is the role of the RMA?",
+        "input": "",
+        "output": "The RMA is the central bank of Bhutan, responsible for issuing currency, managing external reserves, regulating financial institutions, and acting as the banker to the government and other banks."
+    },
+    {
+        "instruction": "Who is the current chairman of the RMA?",
+        "input": "",
+        "output": "Dasho Penjore is the current chairman of the Royal Monetary Authority of Bhutan."
+    },
+    {
+        "instruction": "What key milestone did the RMA achieve in 2010?",
+        "input": "",
+        "output": "In 2010, the RMA became a fully autonomous central bank with the enactment of the RMA Act 2010."
+    },
+    {
+        "instruction": "Which law granted the RMA the authority to supervise financial institutions?",
+        "input": "",
+        "output": "The Financial Institution Act of Bhutan 1992 granted the RMA the authority to license, regulate, and supervise financial institutions in Bhutan."
+    },
+    {
+        "instruction": "Name three financial institutions regulated by the RMA.",
+        "input": "",
+        "output": "Three financial institutions regulated by the RMA are the Bank of Bhutan, Bhutan National Bank Ltd, and Druk PNB Bank Ltd."
+    },
+    {
+        "instruction": "What function did the RMA assume in 1988?",
+        "input": "",
+        "output": "In 1988, the RMA assumed the role of Government banker, holding government deposits and providing finance through ways and means advances."
+    },
+    {
+        "instruction": "What is the role of the Department of Financial Intelligence under the RMA?",
+        "input": "",
+        "output": "The Department of Financial Intelligence operates under the RMA to combat money laundering, terrorism financing, and other financial crimes in Bhutan."
+    },
+    {
+        "instruction": "What is one of the main responsibilities of the RMA regarding foreign exchange?",
+        "input": "",
+        "output": "One of the main responsibilities of the RMA is to manage Bhutan’s foreign exchange reserves and regulate foreign exchange transactions."
+    },
+    {
+        "instruction": "What are the key responsibilities of the RMA in Bhutan's economy?",
+        "input": "",
+        "output": "The RMA is responsible for issuing currency, acting as a banker to the government, managing international reserves, and regulating financial institutions to ensure economic stability."
+    },
+    {
+        "instruction": "What is the role of the Royal Monetary Authority of Bhutan?",
+        "input": "",
+        "output": "The Royal Monetary Authority (RMA) of Bhutan serves as the central bank, responsible for formulating and implementing monetary policy, regulating financial institutions, managing currency issuance, and maintaining financial stability in the country."
+    },
+    {
+        "instruction": "Explain the role of RMA in currency management.",
+        "input": "",
+        "output": "The RMA is responsible for issuing and managing Bhutan's currency, the Ngultrum (BTN). It ensures that there is an adequate supply of currency in circulation and regulates its distribution through banks and financial institutions."
+    },
+    {
+        "instruction": "How does RMA promote financial inclusion in Bhutan?",
+        "input": "",
+        "output": "RMA promotes financial inclusion by ensuring access to banking services for all citizens, especially in rural areas. This includes initiatives like mobile banking, microfinance, and digital payment systems to provide affordable and accessible financial services."
+    },
+    {
+        "instruction": "What is the RMA's role in foreign exchange management?",
+        "input": "",
+        "output": "The RMA manages Bhutan's foreign exchange reserves and regulates foreign currency transactions. It ensures stability in Bhutan’s balance of payments and helps maintain sufficient foreign reserves to meet the country’s international obligations."
+    },
+    {
+        "instruction": "How does the RMA regulate financial institutions in Bhutan?",
+        "input": "",
+        "output": "The RMA regulates financial institutions by setting prudential guidelines, monitoring compliance, and ensuring that banks, insurance companies, and other financial entities operate in a safe and sound manner to protect the financial system."
+    },
+    {
+        "instruction": "What is the role of RMA in developing Bhutan's capital markets?",
+        "input": "",
+        "output": "The RMA helps in the development of Bhutan's capital markets by regulating and promoting investment instruments and ensuring that the financial infrastructure is in place to support long-term investment and economic growth."
+    },
+    {
+        "instruction": "What is the significance of the Ngultrum being pegged to the Indian Rupee?",
+        "input": "",
+        "output": "The Ngultrum (BTN) is pegged to the Indian Rupee (INR) at par, meaning 1 BTN equals 1 INR. This ensures stability in trade between Bhutan and India, Bhutan’s largest trading partner, and helps stabilize the value of the Ngultrum."
+    },
+    {
+        "instruction": "How does RMA ensure financial stability in Bhutan?",
+        "input": "",
+        "output": "The RMA ensures financial stability by regulating banks, overseeing monetary policy, managing liquidity, and monitoring economic risks. It intervenes when necessary to prevent financial crises and ensure the smooth functioning of the financial system."
+    },
+    {
+        "instruction": "What steps has RMA taken towards digital payments in Bhutan?",
+        "input": "",
+        "output": "The RMA has introduced several digital payment solutions, such as the Bhutan Immediate Payment System (BIPS) and mobile wallet services, to promote cashless transactions, enhance convenience, and drive the digital transformation of Bhutan's economy."
+    },
+    {
+        "instruction": "How does RMA manage government debt?",
+        "input": "",
+        "output": "The RMA acts as the government’s banker and helps manage public debt by issuing government bonds, managing debt repayments, and ensuring that the government can meet its financial obligations sustainably."
+    },
+    {
+        "instruction": "What is RMA's role in maintaining Bhutan's foreign reserves?",
+        "input": "",
+        "output": "RMA manages Bhutan's foreign exchange reserves by ensuring there are sufficient reserves to cover international transactions and maintain confidence in the country’s currency. This includes interventions in the foreign exchange market if needed."
+    },
+    {
+        "instruction": "Describe the Bhutan Immediate Payment System (BIPS).",
+        "input": "",
+        "output": "The Bhutan Immediate Payment System (BIPS) is a digital payment platform introduced by RMA that enables instant bank-to-bank transfers for individuals and businesses. It promotes a cashless economy and enhances the efficiency of financial transactions."
+    },
+    {
+        "instruction": "What is RMA's role in regulating microfinance institutions?",
+        "input": "",
+        "output": "RMA regulates microfinance institutions by setting rules and standards to ensure they operate safely and provide affordable credit to underserved populations. This helps promote financial inclusion, especially in rural Bhutan."
+    },
+    {
+        "instruction": "What are RMA’s initiatives for green finance?",
+        "input": "",
+        "output": "RMA supports green finance by encouraging financial institutions to invest in environmentally sustainable projects. It aims to promote economic growth that aligns with Bhutan's Gross National Happiness (GNH) philosophy and environmental sustainability."
+    },
+    {
+        "instruction": "How does RMA monitor inflation in Bhutan?",
+        "input": "",
+        "output": "RMA monitors inflation by tracking price changes in key goods and services and adjusting monetary policy tools, such as interest rates and money supply, to control inflationary pressures and maintain economic stability."
+    },
+    {
+        "instruction": "What is RMA's role in regulating insurance companies?",
+        "input": "",
+        "output": "RMA regulates insurance companies in Bhutan by ensuring they comply with financial standards, maintain adequate capital, and manage risks effectively. This protects policyholders and ensures the stability of the insurance sector."
+    },
+    {
+        "instruction": "Explain the relationship between RMA and Gross National Happiness (GNH).",
+        "input": "",
+        "output": "RMA aligns its financial policies with Bhutan's Gross National Happiness (GNH) philosophy by promoting sustainable economic practices, supporting inclusive growth, and ensuring that economic development contributes to the well-being of all citizens."
+    },
+    {
+        "instruction": "How does RMA handle financial crises?",
+        "input": "",
+        "output": "During financial crises, RMA can intervene by providing liquidity to banks, adjusting interest rates, and implementing emergency measures to stabilize the financial system. It also coordinates with international partners to manage external risks."
+    },
+    {
+        "instruction": "What is the role of RMA in handling remittances?",
+        "input": "",
+        "output": "RMA facilitates remittances by ensuring efficient systems for Bhutanese citizens working abroad to send money back home. This includes working with financial institutions to provide secure and affordable remittance services."
+    },
+    {
+        "instruction": "How does RMA promote responsible lending practices?",
+        "input": "",
+        "output": "RMA promotes responsible lending by setting regulations that prevent predatory lending, ensuring banks assess the creditworthiness of borrowers, and encouraging financial institutions to provide transparent loan terms to protect consumers."
+    },
+    {
+        "instruction": "What are the responsibilities of the RMA’s board of directors?",
+        "input": "",
+        "output": "The board of directors of the RMA oversees the implementation of policies, manages the strategic direction of the central bank, and ensures that the organization fulfills its mandate to maintain monetary and financial stability in Bhutan."
+    },
+    {
+        "instruction": "What is the function of RMA's financial literacy programs?",
+        "input": "",
+        "output": "RMA’s financial literacy programs aim to educate the public about managing personal finances, the importance of saving, and how to use financial services effectively. These initiatives help improve financial awareness and promote responsible financial behavior."
+    },
+    {
+        "instruction": "How does RMA contribute to economic growth in Bhutan?",
+        "input": "",
+        "output": "RMA contributes to economic growth by maintaining stable monetary conditions, regulating financial institutions, promoting investment through capital markets, and supporting access to finance for businesses and individuals."
+    },
+    {
+        "instruction": "What is RMA’s role in mobile banking?",
+        "input": "",
+        "output": "RMA promotes mobile banking by supporting the development of mobile financial services, ensuring secure platforms, and expanding access to financial services, especially in rural areas. This helps increase financial inclusion across Bhutan."
+    },
+    {
+        "instruction": "How does RMA regulate credit cooperatives in Bhutan?",
+        "input": "",
+        "output": "RMA regulates credit cooperatives by setting guidelines to ensure they operate fairly and transparently. These cooperatives provide savings and credit services to their members, and RMA’s oversight ensures their financial stability and compliance."
+    },
+    {
+        "instruction": "What are RMA's guidelines for digital wallets?",
+        "input": "",
+        "output": "RMA sets guidelines for digital wallets to ensure their security, interoperability, and accessibility. These guidelines help promote safe and efficient digital transactions, contributing to the growth of a cashless economy in Bhutan."
+    },
+    {
+        "instruction": "How does RMA manage inflation expectations in Bhutan?",
+        "input": "",
+        "output": "RMA manages inflation expectations by communicating monetary policy changes, controlling the money supply, and adjusting interest rates to influence spending and saving behaviors. This helps stabilize prices and prevent excessive inflation."
+    },
+    {
+        "instruction": "What is the role of RMA in overseeing credit card services?",
+        "input": "",
+        "output": "RMA oversees credit card services by setting regulations to protect consumers, ensuring that banks and financial institutions provide transparent terms, and preventing excessive interest rates or fees. This ensures fair access to credit."
+    },
+    {
+        "instruction": "How does RMA facilitate cross-border payments?",
+        "input": "",
+        "output": "RMA facilitates cross-border payments by regulating and streamlining the process for foreign exchange transactions, ensuring smooth remittances, trade payments, and currency conversions between Bhutan and other countries."
+    },
+    {
+        "instruction": "What law governs the current operations of the Royal Monetary Authority of Bhutan?",
+        "input": "",
+        "output": "The current operations of the Royal Monetary Authority of Bhutan are governed by the Royal Monetary Authority Act of Bhutan 2010."
+    },
+    {
+        "instruction": "What was the role of the RMA in managing Bhutan’s external reserves when it was first established?",
+        "input": "",
+        "output": "When the RMA was first established in 1982, one of its roles was to manage Bhutan’s external reserves and foreign exchange operations."
+    },
+    {
+        "instruction": "What year did the RMA assume its role as the Government banker?",
+        "input": "",
+        "output": "The RMA assumed its role as the Government banker in 1988."
+    },
+    {
+        "instruction": "What are ways and means advances provided by the RMA?",
+        "input": "",
+        "output": "Ways and means advances are short-term advances provided by the RMA to the government to help manage temporary mismatches in cash flow."
+    },
+    {
+        "instruction": "What authority does the RMA have regarding issuing financial institution licenses?",
+        "input": "",
+        "output": "The RMA has the authority to issue licenses to financial institutions under the Financial Institution Act of Bhutan 1992, allowing them to provide financial services in Bhutan."
+    },
+    {
+        "instruction": "Which year did Bhutan transition to a Democratic Constitutional Monarchy, impacting the RMA?",
+        "input": "",
+        "output": "Bhutan transitioned to a Democratic Constitutional Monarchy in 2008, leading to the enactment of the RMA Act 2010."
+    },
+    {
+        "instruction": "Who appoints the members of the RMA Board of Directors?",
+        "input": "",
+        "output": "The members of the RMA Board of Directors are appointed by the Royal Government of Bhutan."
+    },
+    {
+        "instruction": "Name a key responsibility of the RMA as the central bank of Bhutan.",
+        "input": "",
+        "output": "One key responsibility of the RMA is to issue the national currency of Bhutan, the Ngultrum."
+    },
+    {
+        "instruction": "What role does the RMA play in regulating payment and settlement systems?",
+        "input": "",
+        "output": "The RMA regulates payment and settlement systems, including the electronic transfer of funds, to ensure secure and efficient financial transactions in Bhutan."
+    },
+    {
+        "instruction": "Who was the RMA's chairman in 2024?",
+        "input": "",
+        "output": "In 2024, the chairman of the Royal Monetary Authority of Bhutan was Dasho Penjore."
+    },
+    {
+        "instruction": "What international role does the RMA play?",
+        "input": "",
+        "output": "The RMA manages Bhutan's international reserves and foreign exchange operations, helping to maintain Bhutan's economic stability in the global market."
+    },
+    {
+        "instruction": "What function does the RMA serve for the Bhutanese banks?",
+        "input": "",
+        "output": "The RMA acts as a banker to the banks, providing liquidity support and overseeing the stability of the banking system in Bhutan."
+    },
+    {
+        "instruction": "What is the significance of the RMA Act 1982?",
+        "input": "",
+        "output": "The RMA Act 1982 was the foundational law that established the Royal Monetary Authority of Bhutan, giving it the mandate to manage currency, reserves, and financial operations."
+    },
+    {
+        "instruction": "What is the Ngultrum?",
+        "input": "",
+        "output": "The Ngultrum is the national currency of Bhutan, issued and regulated by the Royal Monetary Authority."
+    },
+    {
+        "instruction": "What role does the RMA play in Bhutan's financial institutions?",
+        "input": "",
+        "output": "The RMA licenses, regulates, and supervises Bhutan's financial institutions, ensuring their compliance with laws and promoting a stable financial system."
+    },
+    {
+        "instruction": "What act amended the RMA’s role in 1992?",
+        "input": "",
+        "output": "The Financial Institution Act of Bhutan 1992 amended the RMA’s role, expanding its authority to include licensure, regulation, and supervision of financial institutions."
+    },
+    {
+        "instruction": "What is one of the main objectives of the RMA?",
+        "input": "",
+        "output": "One of the main objectives of the RMA is to maintain price stability in Bhutan through effective monetary policy and financial supervision."
+    },
+    {
+        "instruction": "What responsibility did the RMA take over in 1983?",
+        "input": "",
+        "output": "In 1983, the RMA took over the issuance of Bhutan’s national currency and the management of foreign reserves."
+    },
+    {
+        "instruction": "What are electronic fund transfers, and how does the RMA regulate them?",
+        "input": "",
+        "output": "Electronic fund transfers are digital transactions between banks or individuals, and the RMA regulates them to ensure secure, efficient payment systems in Bhutan."
+    },
+    {
+        "instruction": "What kind of advances does the RMA provide to the Royal Government?",
+        "input": "",
+        "output": "The RMA provides ways and means advances to the Royal Government of Bhutan to manage short-term liquidity needs."
+    },
+    {
+        "instruction": "What are the core responsibilities of the RMA's Department of Financial Intelligence?",
+        "input": "",
+        "output": "The RMA's Department of Financial Intelligence focuses on combating money laundering, financing terrorism, and other financial crimes in Bhutan."
+    },
+    {
+        "instruction": "Which Bhutanese law gave the RMA the authority to manage external reserves?",
+        "input": "",
+        "output": "The RMA Act 1982 initially gave the RMA the authority to manage Bhutan's external reserves and foreign exchange operations."
+    },
+    {
+        "instruction": "What kind of licenses does the RMA issue to financial institutions?",
+        "input": "",
+        "output": "The RMA issues licenses to financial institutions that authorize them to carry out banking, insurance, and other financial services in Bhutan."
+    },
+    {
+        "instruction": "What key event happened in 1988 regarding the RMA?",
+        "input": "",
+        "output": "In 1988, the RMA assumed the role of Government banker, handling government deposits and providing financial advances to the government."
+    },
+    {
+        "instruction": "How does the RMA ensure financial stability in Bhutan?",
+        "input": "",
+        "output": "The RMA ensures financial stability by regulating financial institutions, managing currency and reserves, and overseeing the payment and settlement systems."
+    },
+    {
+        "instruction": "How did the RMA's status change with the enactment of the RMA Act 2010?",
+        "input": "",
+        "output": "The RMA Act 2010 elevated the status of the RMA to an autonomous central bank with greater decision-making powers and independence."
+    },
+    {
+        "instruction": "What is the role of microfinance institutions under the RMA’s oversight?",
+        "input": "",
+        "output": "Microfinance institutions, regulated by the RMA, provide small-scale financial services to low-income individuals, helping promote financial inclusion in Bhutan."
+    },
+    {
+        "instruction": "Which institutions does the RMA regulate aside from banks?",
+        "input": "",
+        "output": "Aside from banks, the RMA regulates non-bank financial institutions, including insurance companies, pension funds, and microfinance institutions."
+    },
+    {
+        "instruction": "How does the RMA contribute to Bhutan’s 21st-century economic goals?",
+        "input": "",
+        "output": "The RMA supports Bhutan's 21st-century economic goals by maintaining financial stability, regulating financial institutions, and promoting a prosperous and sustainable economy."
+    },
+    {
+        "instruction": "What are the functions of the RMA as the banker to the banks?",
+        "input": "",
+        "output": "As the banker to the banks, the RMA provides liquidity, manages reserves, and ensures the overall stability of Bhutan's banking system."
+    },
+    {
+        "instruction": "When was the Royal Monetary Authority (RMA) of Bhutan established?",
+        "input": "",
+        "output": "The Royal Monetary Authority of Bhutan was established in 1982."
+    },
+    {
+        "instruction": "What is the role of the RMA?",
+        "input": "",
+        "output": "The RMA is the central bank of Bhutan, responsible for issuing currency, managing external reserves, regulating financial institutions, and acting as the banker to the government and other banks."
+    },
+    {
+        "instruction": "Who is the current chairman of the RMA?",
+        "input": "",
+        "output": "Dasho Penjore is the current chairman of the Royal Monetary Authority of Bhutan."
+    },
+    {
+        "instruction": "What key milestone did the RMA achieve in 2010?",
+        "input": "",
+        "output": "In 2010, the RMA became a fully autonomous central bank with the enactment of the RMA Act 2010."
+    },
+    {
+        "instruction": "Which law granted the RMA the authority to supervise financial institutions?",
+        "input": "",
+        "output": "The Financial Institution Act of Bhutan 1992 granted the RMA the authority to license, regulate, and supervise financial institutions in Bhutan."
+    },
+    {
+        "instruction": "Name three financial institutions regulated by the RMA.",
+        "input": "",
+        "output": "Three financial institutions regulated by the RMA are the Bank of Bhutan, Bhutan National Bank Ltd, and Druk PNB Bank Ltd."
+    },
+    {
+        "instruction": "What function did the RMA assume in 1988?",
+        "input": "",
+        "output": "In 1988, the RMA assumed the role of Government banker, holding government deposits and providing finance through ways and means advances."
+    },
+    {
+        "instruction": "What is the role of the Department of Financial Intelligence under the RMA?",
+        "input": "",
+        "output": "The Department of Financial Intelligence operates under the RMA to combat money laundering, terrorism financing, and other financial crimes in Bhutan."
+    },
+    {
+        "instruction": "What is one of the main responsibilities of the RMA regarding foreign exchange?",
+        "input": "",
+        "output": "One of the main responsibilities of the RMA is to manage Bhutan’s foreign exchange reserves and regulate foreign exchange transactions."
+    },
+    {
+        "instruction": "What are the key responsibilities of the RMA in Bhutan's economy?",
+        "input": "",
+        "output": "The RMA is responsible for issuing currency, acting as a banker to the government, managing international reserves, and regulating financial institutions to ensure economic stability."
+    },
+    {
+        "instruction": "What is the role of the Royal Monetary Authority of Bhutan?",
+        "input": "",
+        "output": "The Royal Monetary Authority (RMA) of Bhutan serves as the central bank, responsible for formulating and implementing monetary policy, regulating financial institutions, managing currency issuance, and maintaining financial stability in the country."
+    },
+    {
+        "instruction": "Explain the role of RMA in currency management.",
+        "input": "",
+        "output": "The RMA is responsible for issuing and managing Bhutan's currency, the Ngultrum (BTN). It ensures that there is an adequate supply of currency in circulation and regulates its distribution through banks and financial institutions."
+    },
+    {
+        "instruction": "How does RMA promote financial inclusion in Bhutan?",
+        "input": "",
+        "output": "RMA promotes financial inclusion by ensuring access to banking services for all citizens, especially in rural areas. This includes initiatives like mobile banking, microfinance, and digital payment systems to provide affordable and accessible financial services."
+    },
+    {
+        "instruction": "What is the RMA's role in foreign exchange management?",
+        "input": "",
+        "output": "The RMA manages Bhutan's foreign exchange reserves and regulates foreign currency transactions. It ensures stability in Bhutan’s balance of payments and helps maintain sufficient foreign reserves to meet the country’s international obligations."
+    },
+    {
+        "instruction": "How does the RMA regulate financial institutions in Bhutan?",
+        "input": "",
+        "output": "The RMA regulates financial institutions by setting prudential guidelines, monitoring compliance, and ensuring that banks, insurance companies, and other financial entities operate in a safe and sound manner to protect the financial system."
+    },
+    {
+        "instruction": "What is the role of RMA in developing Bhutan's capital markets?",
+        "input": "",
+        "output": "The RMA helps in the development of Bhutan's capital markets by regulating and promoting investment instruments and ensuring that the financial infrastructure is in place to support long-term investment and economic growth."
+    },
+    {
+        "instruction": "What is the significance of the Ngultrum being pegged to the Indian Rupee?",
+        "input": "",
+        "output": "The Ngultrum (BTN) is pegged to the Indian Rupee (INR) at par, meaning 1 BTN equals 1 INR. This ensures stability in trade between Bhutan and India, Bhutan’s largest trading partner, and helps stabilize the value of the Ngultrum."
+    },
+    {
+        "instruction": "How does RMA ensure financial stability in Bhutan?",
+        "input": "",
+        "output": "The RMA ensures financial stability by regulating banks, overseeing monetary policy, managing liquidity, and monitoring economic risks. It intervenes when necessary to prevent financial crises and ensure the smooth functioning of the financial system."
+    },
+    {
+        "instruction": "What steps has RMA taken towards digital payments in Bhutan?",
+        "input": "",
+        "output": "The RMA has introduced several digital payment solutions, such as the Bhutan Immediate Payment System (BIPS) and mobile wallet services, to promote cashless transactions, enhance convenience, and drive the digital transformation of Bhutan's economy."
+    },
+    {
+        "instruction": "How does RMA manage government debt?",
+        "input": "",
+        "output": "The RMA acts as the government’s banker and helps manage public debt by issuing government bonds, managing debt repayments, and ensuring that the government can meet its financial obligations sustainably."
+    },
+    {
+        "instruction": "What is RMA's role in maintaining Bhutan's foreign reserves?",
+        "input": "",
+        "output": "RMA manages Bhutan's foreign exchange reserves by ensuring there are sufficient reserves to cover international transactions and maintain confidence in the country’s currency. This includes interventions in the foreign exchange market if needed."
+    },
+    {
+        "instruction": "Describe the Bhutan Immediate Payment System (BIPS).",
+        "input": "",
+        "output": "The Bhutan Immediate Payment System (BIPS) is a digital payment platform introduced by RMA that enables instant bank-to-bank transfers for individuals and businesses. It promotes a cashless economy and enhances the efficiency of financial transactions."
+    },
+    {
+        "instruction": "What is RMA's role in regulating microfinance institutions?",
+        "input": "",
+        "output": "RMA regulates microfinance institutions by setting rules and standards to ensure they operate safely and provide affordable credit to underserved populations. This helps promote financial inclusion, especially in rural Bhutan."
+    },
+    {
+        "instruction": "What are RMA’s initiatives for green finance?",
+        "input": "",
+        "output": "RMA supports green finance by encouraging financial institutions to invest in environmentally sustainable projects. It aims to promote economic growth that aligns with Bhutan's Gross National Happiness (GNH) philosophy and environmental sustainability."
+    },
+    {
+        "instruction": "How does RMA monitor inflation in Bhutan?",
+        "input": "",
+        "output": "RMA monitors inflation by tracking price changes in key goods and services and adjusting monetary policy tools, such as interest rates and money supply, to control inflationary pressures and maintain economic stability."
+    },
+    {
+        "instruction": "What is RMA's role in regulating insurance companies?",
+        "input": "",
+        "output": "RMA regulates insurance companies in Bhutan by ensuring they comply with financial standards, maintain adequate capital, and manage risks effectively. This protects policyholders and ensures the stability of the insurance sector."
+    },
+    {
+        "instruction": "Explain the relationship between RMA and Gross National Happiness (GNH).",
+        "input": "",
+        "output": "RMA aligns its financial policies with Bhutan's Gross National Happiness (GNH) philosophy by promoting sustainable economic practices, supporting inclusive growth, and ensuring that economic development contributes to the well-being of all citizens."
+    },
+    {
+        "instruction": "How does RMA handle financial crises?",
+        "input": "",
+        "output": "During financial crises, RMA can intervene by providing liquidity to banks, adjusting interest rates, and implementing emergency measures to stabilize the financial system. It also coordinates with international partners to manage external risks."
+    },
+    {
+        "instruction": "What is the role of RMA in handling remittances?",
+        "input": "",
+        "output": "RMA facilitates remittances by ensuring efficient systems for Bhutanese citizens working abroad to send money back home. This includes working with financial institutions to provide secure and affordable remittance services."
+    },
+    {
+        "instruction": "How does RMA promote responsible lending practices?",
+        "input": "",
+        "output": "RMA promotes responsible lending by setting regulations that prevent predatory lending, ensuring banks assess the creditworthiness of borrowers, and encouraging financial institutions to provide transparent loan terms to protect consumers."
+    },
+    {
+        "instruction": "What are the responsibilities of the RMA’s board of directors?",
+        "input": "",
+        "output": "The board of directors of the RMA oversees the implementation of policies, manages the strategic direction of the central bank, and ensures that the organization fulfills its mandate to maintain monetary and financial stability in Bhutan."
+    },
+    {
+        "instruction": "What is the function of RMA's financial literacy programs?",
+        "input": "",
+        "output": "RMA’s financial literacy programs aim to educate the public about managing personal finances, the importance of saving, and how to use financial services effectively. These initiatives help improve financial awareness and promote responsible financial behavior."
+    },
+    {
+        "instruction": "How does RMA contribute to economic growth in Bhutan?",
+        "input": "",
+        "output": "RMA contributes to economic growth by maintaining stable monetary conditions, regulating financial institutions, promoting investment through capital markets, and supporting access to finance for businesses and individuals."
+    },
+    {
+        "instruction": "What is RMA’s role in mobile banking?",
+        "input": "",
+        "output": "RMA promotes mobile banking by supporting the development of mobile financial services, ensuring secure platforms, and expanding access to financial services, especially in rural areas. This helps increase financial inclusion across Bhutan."
+    },
+    {
+        "instruction": "How does RMA regulate credit cooperatives in Bhutan?",
+        "input": "",
+        "output": "RMA regulates credit cooperatives by setting guidelines to ensure they operate fairly and transparently. These cooperatives provide savings and credit services to their members, and RMA’s oversight ensures their financial stability and compliance."
+    },
+    {
+        "instruction": "What are RMA's guidelines for digital wallets?",
+        "input": "",
+        "output": "RMA sets guidelines for digital wallets to ensure their security, interoperability, and accessibility. These guidelines help promote safe and efficient digital transactions, contributing to the growth of a cashless economy in Bhutan."
+    },
+    {
+        "instruction": "How does RMA manage inflation expectations in Bhutan?",
+        "input": "",
+        "output": "RMA manages inflation expectations by communicating monetary policy changes, controlling the money supply, and adjusting interest rates to influence spending and saving behaviors. This helps stabilize prices and prevent excessive inflation."
+    },
+    {
+        "instruction": "What is the role of RMA in overseeing credit card services?",
+        "input": "",
+        "output": "RMA oversees credit card services by setting regulations to protect consumers, ensuring that banks and financial institutions provide transparent terms, and preventing excessive interest rates or fees. This ensures fair access to credit."
+    },
+    {
+        "instruction": "How does RMA facilitate cross-border payments?",
+        "input": "",
+        "output": "RMA facilitates cross-border payments by regulating and streamlining the process for foreign exchange transactions, ensuring smooth remittances, trade payments, and currency conversions between Bhutan and other countries."
+    },
+    {
+        "instruction": "What law governs the current operations of the Royal Monetary Authority of Bhutan?",
+        "input": "",
+        "output": "The current operations of the Royal Monetary Authority of Bhutan are governed by the Royal Monetary Authority Act of Bhutan 2010."
+    },
+    {
+        "instruction": "What was the role of the RMA in managing Bhutan’s external reserves when it was first established?",
+        "input": "",
+        "output": "When the RMA was first established in 1982, one of its roles was to manage Bhutan’s external reserves and foreign exchange operations."
+    },
+    {
+        "instruction": "What year did the RMA assume its role as the Government banker?",
+        "input": "",
+        "output": "The RMA assumed its role as the Government banker in 1988."
+    },
+    {
+        "instruction": "What are ways and means advances provided by the RMA?",
+        "input": "",
+        "output": "Ways and means advances are short-term advances provided by the RMA to the government to help manage temporary mismatches in cash flow."
+    },
+    {
+        "instruction": "What authority does the RMA have regarding issuing financial institution licenses?",
+        "input": "",
+        "output": "The RMA has the authority to issue licenses to financial institutions under the Financial Institution Act of Bhutan 1992, allowing them to provide financial services in Bhutan."
+    },
+    {
+        "instruction": "Which year did Bhutan transition to a Democratic Constitutional Monarchy, impacting the RMA?",
+        "input": "",
+        "output": "Bhutan transitioned to a Democratic Constitutional Monarchy in 2008, leading to the enactment of the RMA Act 2010."
+    },
+    {
+        "instruction": "Who appoints the members of the RMA Board of Directors?",
+        "input": "",
+        "output": "The members of the RMA Board of Directors are appointed by the Royal Government of Bhutan."
+    },
+    {
+        "instruction": "Name a key responsibility of the RMA as the central bank of Bhutan.",
+        "input": "",
+        "output": "One key responsibility of the RMA is to issue the national currency of Bhutan, the Ngultrum."
+    },
+    {
+        "instruction": "What role does the RMA play in regulating payment and settlement systems?",
+        "input": "",
+        "output": "The RMA regulates payment and settlement systems, including the electronic transfer of funds, to ensure secure and efficient financial transactions in Bhutan."
+    },
+    {
+        "instruction": "Who was the RMA's chairman in 2024?",
+        "input": "",
+        "output": "In 2024, the chairman of the Royal Monetary Authority of Bhutan was Dasho Penjore."
+    },
+    {
+        "instruction": "What international role does the RMA play?",
+        "input": "",
+        "output": "The RMA manages Bhutan's international reserves and foreign exchange operations, helping to maintain Bhutan's economic stability in the global market."
+    },
+    {
+        "instruction": "What function does the RMA serve for the Bhutanese banks?",
+        "input": "",
+        "output": "The RMA acts as a banker to the banks, providing liquidity support and overseeing the stability of the banking system in Bhutan."
+    },
+    {
+        "instruction": "What is the significance of the RMA Act 1982?",
+        "input": "",
+        "output": "The RMA Act 1982 was the foundational law that established the Royal Monetary Authority of Bhutan, giving it the mandate to manage currency, reserves, and financial operations."
+    },
+    {
+        "instruction": "What is the Ngultrum?",
+        "input": "",
+        "output": "The Ngultrum is the national currency of Bhutan, issued and regulated by the Royal Monetary Authority."
+    },
+    {
+        "instruction": "What role does the RMA play in Bhutan's financial institutions?",
+        "input": "",
+        "output": "The RMA licenses, regulates, and supervises Bhutan's financial institutions, ensuring their compliance with laws and promoting a stable financial system."
+    },
+    {
+        "instruction": "What act amended the RMA’s role in 1992?",
+        "input": "",
+        "output": "The Financial Institution Act of Bhutan 1992 amended the RMA’s role, expanding its authority to include licensure, regulation, and supervision of financial institutions."
+    },
+    {
+        "instruction": "What is one of the main objectives of the RMA?",
+        "input": "",
+        "output": "One of the main objectives of the RMA is to maintain price stability in Bhutan through effective monetary policy and financial supervision."
+    },
+    {
+        "instruction": "What responsibility did the RMA take over in 1983?",
+        "input": "",
+        "output": "In 1983, the RMA took over the issuance of Bhutan’s national currency and the management of foreign reserves."
+    },
+    {
+        "instruction": "What are electronic fund transfers, and how does the RMA regulate them?",
+        "input": "",
+        "output": "Electronic fund transfers are digital transactions between banks or individuals, and the RMA regulates them to ensure secure, efficient payment systems in Bhutan."
+    },
+    {
+        "instruction": "What kind of advances does the RMA provide to the Royal Government?",
+        "input": "",
+        "output": "The RMA provides ways and means advances to the Royal Government of Bhutan to manage short-term liquidity needs."
+    },
+    {
+        "instruction": "What are the core responsibilities of the RMA's Department of Financial Intelligence?",
+        "input": "",
+        "output": "The RMA's Department of Financial Intelligence focuses on combating money laundering, financing terrorism, and other financial crimes in Bhutan."
+    },
+    {
+        "instruction": "Which Bhutanese law gave the RMA the authority to manage external reserves?",
+        "input": "",
+        "output": "The RMA Act 1982 initially gave the RMA the authority to manage Bhutan's external reserves and foreign exchange operations."
+    },
+    {
+        "instruction": "What kind of licenses does the RMA issue to financial institutions?",
+        "input": "",
+        "output": "The RMA issues licenses to financial institutions that authorize them to carry out banking, insurance, and other financial services in Bhutan."
+    },
+    {
+        "instruction": "What key event happened in 1988 regarding the RMA?",
+        "input": "",
+        "output": "In 1988, the RMA assumed the role of Government banker, handling government deposits and providing financial advances to the government."
+    },
+    {
+        "instruction": "How does the RMA ensure financial stability in Bhutan?",
+        "input": "",
+        "output": "The RMA ensures financial stability by regulating financial institutions, managing currency and reserves, and overseeing the payment and settlement systems."
+    },
+    {
+        "instruction": "How did the RMA's status change with the enactment of the RMA Act 2010?",
+        "input": "",
+        "output": "The RMA Act 2010 elevated the status of the RMA to an autonomous central bank with greater decision-making powers and independence."
+    },
+    {
+        "instruction": "What is the role of microfinance institutions under the RMA’s oversight?",
+        "input": "",
+        "output": "Microfinance institutions, regulated by the RMA, provide small-scale financial services to low-income individuals, helping promote financial inclusion in Bhutan."
+    },
+    {
+        "instruction": "Which institutions does the RMA regulate aside from banks?",
+        "input": "",
+        "output": "Aside from banks, the RMA regulates non-bank financial institutions, including insurance companies, pension funds, and microfinance institutions."
+    },
+    {
+        "instruction": "How does the RMA contribute to Bhutan’s 21st-century economic goals?",
+        "input": "",
+        "output": "The RMA supports Bhutan's 21st-century economic goals by maintaining financial stability, regulating financial institutions, and promoting a prosperous and sustainable economy."
+    },
+    {
+        "instruction": "What are the functions of the RMA as the banker to the banks?",
+        "input": "",
+        "output": "As the banker to the banks, the RMA provides liquidity, manages reserves, and ensures the overall stability of Bhutan's banking system."
+    }
+]
